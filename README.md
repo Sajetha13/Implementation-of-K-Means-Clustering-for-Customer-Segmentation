@@ -71,15 +71,15 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-head():
+### head():
 ![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/b3ec1c37-f67e-46b5-8d19-b553c62d3599)
-isnull().sum():
+### isnull().sum():
 ![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/5e3b89d7-92f2-44fa-993e-be6dcea81a1b)
-graph:
+### graph:
 ![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/b6d05d6a-240a-4363-a3ec-930baf12b706)
-y_pred:
+### y_pred:
 ![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/4d502d17-a83c-4478-9e03-9e2d721d8780)
-cluster:
+### cluster:
 ![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/72c303f8-a9a3-4ef6-a395-82d8424ad990)
 
 
