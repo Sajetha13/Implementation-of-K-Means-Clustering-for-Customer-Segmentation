@@ -20,7 +20,8 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: S.Sajetha
 RegisterNumber: 212223100049
 */
-
+```
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("C:/Users/admin/Downloads/printed pdfs/Mall_Customers.csv")
@@ -70,9 +71,16 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/52529a7d-c082-40c3-90fc-218ed9428661)
-![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/8f41a9d0-c4de-499b-8bad-ea396d84aef6)
-![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/a68efcfa-12a7-4a48-b663-7ef82f79400b)
+head():
+![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/b3ec1c37-f67e-46b5-8d19-b553c62d3599)
+isnull().sum():
+![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/5e3b89d7-92f2-44fa-993e-be6dcea81a1b)
+graph:
+![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/b6d05d6a-240a-4363-a3ec-930baf12b706)
+y_pred:
+![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/4d502d17-a83c-4478-9e03-9e2d721d8780)
+cluster:
+![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/72c303f8-a9a3-4ef6-a395-82d8424ad990)
 
 
 ## Result:
